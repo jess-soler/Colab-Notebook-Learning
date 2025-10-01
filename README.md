@@ -1,6 +1,6 @@
 # Jess’s Python Data Science Learning Journal
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jess-soler/Colab-Notebook-Learning/blob/main/Jess%E2%80%99s_Final_Python_Data_Science_Learning_Journal%20(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18owqe3l-kmGSyPahQVC0L-D9daWSgvpW#scrollTo=3terMMWUGWZo))
 
 This repository documents my journey learning Python for data science using **Google Colab**. It includes hands-on exercises, data exploration, visualizations, and basic machine learning projects.
 
